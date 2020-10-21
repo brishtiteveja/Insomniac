@@ -1,0 +1,86 @@
+Insomniac v2.1.4
+
+[10/21 05:34:05] Connected devices via adb: 1. That's ok.
+[10/21 05:34:05] Using uiautomator v2
+[10/21 05:34:05] Action: interact with @jeromathew, @#bayarea, @nature, @leaelui, @earthlinged, @hikingbangers, @#kayaking, @#vegan, @charlidamelio, @veganbodybuilding, @travelandleisure, @vanlife.living, @mike.aidala, @lilhuddy, @vegantraveller, @kayak
+
+-------- START: 2020-10-21 05:34:05.700859 --------
+[10/21 05:34:05] Open Instagram app
+[10/21 05:34:05] Sleep for 4 seconds
+[10/21 05:34:09] Press profile
+[10/21 05:34:12] Sleep for 1 second
+[10/21 05:34:14] Hello, @experience_and_embrace! You have 553 followers and 1699 followings so far.
+
+[10/21 05:34:14] Handle @jeromathew
+[10/21 05:34:14] Press search
+[10/21 05:34:15] Open user @jeromathew
+[10/21 05:34:16] Sleep for 4 seconds
+[10/21 05:34:20] Open @jeromathew followers
+[10/21 05:34:23] Iterate over visible followers
+[10/21 05:34:23] Sleep for 2 seconds
+[10/21 05:34:26] @___ba__blo___: interact
+[10/21 05:34:26] Sleep for 3 seconds
+[10/21 05:34:29] Scroll down to see more photos.
+[10/21 05:34:31] Sleep for 1 second
+[10/21 05:34:32] Open and like photo #1 (2 row, 2 column)
+[10/21 05:34:32] Sleep for 2 seconds
+[10/21 05:34:34] Double click!
+[10/21 05:34:35] Sleep for 2 seconds
+[10/21 05:34:42] Back to profile
+[10/21 05:34:42] Sleep for 1 second
+[10/21 05:34:43] Open and like photo #2 (2 row, 3 column)
+[10/21 05:34:44] Sleep for 3 seconds
+[10/21 05:34:47] Double click!
+[10/21 05:34:47] Sleep for 1 second
+[10/21 05:34:54] Back to profile
+[10/21 05:34:54] Session progress: 2 likes, 0 followed, 1 successful interaction for @jeromathew
+[10/21 05:34:54] Back to followers list
+[10/21 05:34:55] @jenny.schwender: interact
+[10/21 05:34:55] Sleep for 1 second
+[10/21 05:34:56] Scroll down to see more photos.
+[10/21 05:34:57] Sleep for 4 seconds
+[10/21 05:35:01] Open and like photo #1 (1 row, 1 column)
+[10/21 05:35:02] Sleep for 1 second
+[10/21 05:35:03] Double click!
+[10/21 05:35:03] Sleep for 2 seconds
+[10/21 05:35:11] Back to profile
+[10/21 05:35:11] Sleep for 2 seconds
+[10/21 05:35:13] Open and like photo #2 (1 row, 3 column)
+[10/21 05:35:14] Sleep for 2 seconds
+[10/21 05:35:16] Double click!
+[10/21 05:35:16] Sleep for 1 second
+[10/21 05:35:23] Back to profile
+[10/21 05:35:23] Session progress: 4 likes, 0 followed, 2 successful interactions for @jeromathew
+[10/21 05:35:23] Back to followers list
+[10/21 05:35:24] @aya.blmn: interact
+[10/21 05:35:24] Sleep for 4 seconds
+[10/21 05:35:28] Scroll down to see more photos.
+[10/21 05:35:29] Sleep for 4 seconds
+[10/21 05:35:33] Open and like photo #1 (1 row, 2 column)
+[10/21 05:35:40] Less than 6 photos.
+[10/21 05:35:40] Skip user.
+[10/21 05:35:40] Back to followers list
+[10/21 05:35:40] @an_unknown_spirit: interact
+[10/21 05:35:41] Sleep for 1 second
+[10/21 05:35:42] Scroll down to see more photos.
+[10/21 05:35:43] Sleep for 4 seconds
+[10/21 05:35:47] Open and like photo #1 (1 row, 1 column)
+[10/21 05:35:53] Less than 6 photos.
+[10/21 05:35:53] Skip user.
+[10/21 05:35:53] Back to followers list
+[10/21 05:35:54] @marie_on_instagram: interact
+[10/21 05:35:54] Sleep for 4 seconds
+[10/21 05:35:59] Scroll down to see more photos.
+[10/21 05:36:00] Sleep for 2 seconds
+[10/21 05:36:02] Open and like photo #1 (1 row, 2 column)
+[10/21 05:36:08] Less than 6 photos.
+[10/21 05:36:08] Skip user.
+[10/21 05:36:08] Back to followers list
+[10/21 05:36:09] @devsingh8029: interact
+[10/21 05:36:09] Sleep for 1 second
+[10/21 05:36:10] Scroll down to see more photos.
+[10/21 05:36:11] Sleep for 1 second
+[10/21 05:36:12] Open and like photo #1 (1 row, 2 column)
+[10/21 05:36:13] Sleep for 2 seconds
+[10/21 05:36:15] Double click!
+[10/21 05:36:16] Sleep for 2 seconds
