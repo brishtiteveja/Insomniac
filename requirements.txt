@@ -1,3 +1,5 @@
 uiautomator2
 uiautomator
 colorama
+croniter
+speedtest-cli
